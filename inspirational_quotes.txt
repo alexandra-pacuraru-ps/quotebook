@@ -2,3 +2,4 @@ hello
 second quote!
 A new quote
 Woooo
+We want to add a new quote!
